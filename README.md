@@ -152,15 +152,15 @@ implementation 'org.springframework.boot:spring-boot-starter-mail'
     </tr>
     <tr>
         <td><img src="https://github.com/songkidong/YogiAudio/assets/136422040/2d3e22d7-8aa9-4fdc-9c1c-593f5aaf17c8"></td>
-        <td><img src="https://github.com/songkidong/YogiAudio/assets/141198018/4d1fdfc3-275e-4ee6-a85b-8de8c415ecb4"></td>
+        <td><img src="https://github.com/songkidong/YogiAudio/assets/136422040/30381d9a-3d84-426f-99b5-66495a310e52"></td>
     </tr>
     <tr>
         <td>자유게시판 댓글 CRUD</td>
         <td>자유게시판 게시글, 댓글 신고하기</td>
     </tr>
     <tr>
-        <td><img src="https://github.com/songkidong/YogiAudio/assets/141198018/4d1fdfc3-275e-4ee6-a85b-8de8c415ecb4"></td>
-        <td><img src="https://github.com/songkidong/YogiAudio/assets/141198018/4d1fdfc3-275e-4ee6-a85b-8de8c415ecb4"></td>
+        <td><img src="https://github.com/songkidong/YogiAudio/assets/136422040/c1d153b4-e411-4c6f-937a-dfdc89908efb"></td>
+        <td><img src="https://github.com/songkidong/YogiAudio/assets/136422040/b1e3cb76-9db2-4ae9-a093-8a92273ae6d3"></td>
     </tr>
     <tr>
         <td>관리자-공지사항 등록, 수정, 삭제 / 다중파일 업로드</td>
