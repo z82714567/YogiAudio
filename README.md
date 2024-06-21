@@ -140,6 +140,7 @@ implementation 'org.springframework.boot:spring-boot-starter-mail'
 <table>
     <tr>
         <td>소셜 로그인</td>
+        <td>설명</td>
     </tr>
     <tr>
         <td><img src="https://github.com/songkidong/YogiAudio/assets/136422040/fbf09085-6a39-40e0-b868-49b8c4cc2c89"></td>
@@ -151,6 +152,7 @@ implementation 'org.springframework.boot:spring-boot-starter-mail'
     </tr>
     <tr>
         <td>게시판</td>
+        <td>설명</td>
     </tr>
     <tr>
         <td><img src="https://github.com/songkidong/YogiAudio/assets/136422040/badbac2c-e3b4-4e2b-9ed5-267023957191"></td>
@@ -168,6 +170,7 @@ implementation 'org.springframework.boot:spring-boot-starter-mail'
     </tr>
     <tr>
         <td>관리자-게시판</td>
+        <td>설명</td>
     </tr>
     <tr>
         <td><img src="https://github.com/songkidong/YogiAudio/assets/136422040/e65404a6-03bd-4255-ad42-cc2e7887c1da"></td>
