@@ -143,19 +143,30 @@ implementation 'org.springframework.boot:spring-boot-starter-mail'
     </tr>
     <tr>
         <td><img src="https://github.com/songkidong/YogiAudio/assets/136422040/fbf09085-6a39-40e0-b868-49b8c4cc2c89">
-        가나다라마사반아러ㅣㄴ아ㅓ리나어리ㅏㄴ어리ㅏ너이라ㅓㄴ이ㅏ러ㅣㄴ아ㅓ리ㅏㄴ어리ㅏ넝리ㅏ너이라ㅓㄴ이ㅏ러ㅣㅇ나ㅓ리ㅏㄴㅇ
+        - 구글, 네이버, 카카오 API 사용
+        - OAuth2 의 권한 부여 승인 코드 방식 사용
         </td>
     </tr>
     <tr>
         <td>게시판</td>
     </tr>
     <tr>
-        <td><img src="https://github.com/songkidong/YogiAudio/assets/136422040/badbac2c-e3b4-4e2b-9ed5-267023957191"></td>
+        <td><img src="https://github.com/songkidong/YogiAudio/assets/136422040/badbac2c-e3b4-4e2b-9ed5-267023957191">
+        - 공지사항 리스트, 상세보기, 다중파일 다운로드, 검색&페이징
+        - 1:1문의하기 CRUD, 다중파일 업로드/다운로드, 검색&페이징
+        - 자유게시판 게시글 CRUD, 다중파일 업로드/다운로드, 검색&페이징&정렬
+        - 자유게시판 댓글 CRUD
+        - 자유게시판 게시글, 댓글 신고하
+        </td>
     </tr>
     <tr>
         <td>관리자-게시판</td>
     </tr>
     <tr>
-        <td><img src="https://github.com/songkidong/YogiAudio/assets/136422040/e65404a6-03bd-4255-ad42-cc2e7887c1da"></td>
+        <td><img src="https://github.com/songkidong/YogiAudio/assets/136422040/e65404a6-03bd-4255-ad42-cc2e7887c1da">
+        - 공지사항(다중 파일) 등록, 수정, 삭제
+        - 문의하기 답변 등록(답변 여부 변), 수정, 삭제 / 글 삭제
+        - 자유게시판 글 삭제 / 댓글 삭제
+        </td>
     </tr>
 </table>
