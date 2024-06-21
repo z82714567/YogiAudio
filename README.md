@@ -144,14 +144,14 @@ implementation 'org.springframework.boot:spring-boot-starter-mail'
     </tr>
     <tr>
         <td><img src="https://github.com/songkidong/YogiAudio/assets/141198018/4d1fdfc3-275e-4ee6-a85b-8de8c415ecb4"></td>
-        <td><img src="https://github.com/songkidong/YogiAudio/assets/141198018/4d1fdfc3-275e-4ee6-a85b-8de8c415ecb4"></td>
+        <td><img src="https://github.com/songkidong/YogiAudio/assets/136422040/8a6da662-6196-404b-997c-7c803dab5353"></td>
     </tr>
     <tr>
         <td>1:1문의하기 CRUD, 다중파일 업로드/다운로드, 검색&페이징</td>
-        <td>자유게시판 게시글 CRUD, 다중파일 업로드/다운로드, 검색&페이징&정렬</td>
+        <td>자유게시판 CRUD, 다중파일 업로드/다운로드, 검색&페이징&정렬</td>
     </tr>
     <tr>
-        <td><img src="https://github.com/songkidong/YogiAudio/assets/141198018/4d1fdfc3-275e-4ee6-a85b-8de8c415ecb4"></td>
+        <td><img src="https://github.com/songkidong/YogiAudio/assets/136422040/2d3e22d7-8aa9-4fdc-9c1c-593f5aaf17c8"></td>
         <td><img src="https://github.com/songkidong/YogiAudio/assets/141198018/4d1fdfc3-275e-4ee6-a85b-8de8c415ecb4"></td>
     </tr>
     <tr>
