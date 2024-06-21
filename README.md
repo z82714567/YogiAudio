@@ -142,7 +142,9 @@ implementation 'org.springframework.boot:spring-boot-starter-mail'
         <td>소셜 로그인</td>
     </tr>
     <tr>
-        <td><img src="https://github.com/songkidong/YogiAudio/assets/136422040/fbf09085-6a39-40e0-b868-49b8c4cc2c89"></td>
+        <td><img src="https://github.com/songkidong/YogiAudio/assets/136422040/fbf09085-6a39-40e0-b868-49b8c4cc2c89">
+        가나다라마사반아러ㅣㄴ아ㅓ리나어리ㅏㄴ어리ㅏ너이라ㅓㄴ이ㅏ러ㅣㄴ아ㅓ리ㅏㄴ어리ㅏ넝리ㅏ너이라ㅓㄴ이ㅏ러ㅣㅇ나ㅓ리ㅏㄴㅇ
+        </td>
     </tr>
     <tr>
         <td>게시판</td>
