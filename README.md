@@ -140,7 +140,6 @@ implementation 'org.springframework.boot:spring-boot-starter-mail'
 <table>
     <tr>
         <td>소셜 로그인</td>
-        <td>공지사항 list, view, 다중파일 다운로드, 검색&페이징</td>
     </tr>
     <tr>
         <td><img src="https://github.com/songkidong/YogiAudio/assets/136422040/fbf09085-6a39-40e0-b868-49b8c4cc2c89"></td>
