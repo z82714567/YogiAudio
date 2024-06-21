@@ -143,15 +143,15 @@ implementation 'org.springframework.boot:spring-boot-starter-mail'
         <td>공지사항 list, view, 다중파일 다운로드, 검색&페이징</td>
     </tr>
     <tr>
-        <td><img src="https://github.com/songkidong/YogiAudio/assets/136422040/19de3f60-682b-4919-8133-48c94c49c040"></td>
-        <td><img src="https://github.com/songkidong/YogiAudio/assets/136422040/aed50969-104e-474d-a9c5-8dffc89c04e6"></td>
+        <td><img src="https://github.com/songkidong/YogiAudio/assets/136422040/3533b8e6-699d-4d16-8cf7-96fa90739351"></td>
+        <td><img src="https://github.com/songkidong/YogiAudio/assets/136422040/e8de7a64-39fc-4a28-9e60-18480b619422"></td>
     </tr>
     <tr>
         <td>1:1문의하기 CRUD, 다중파일 업로드/다운로드, 검색&페이징</td>
         <td>자유게시판 CRUD, 다중파일 업로드/다운로드, 검색&페이징&정렬</td>
     </tr>
     <tr>
-        <td><img src="https://github.com/songkidong/YogiAudio/assets/136422040/be5fd7ac-cd2b-4bfd-a991-c28b1c7b4917"></td>
+        <td><img src="https://github.com/songkidong/YogiAudio/assets/136422040/736c3622-9d46-4e70-bfed-c0cfb2330f66"></td>
         <td><img src=""></td>
     </tr>
     <tr>
