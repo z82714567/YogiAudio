@@ -146,10 +146,14 @@ implementation 'org.springframework.boot:spring-boot-starter-mail'
     </tr>
     <tr>
         <td>게시판</td>
+    </tr>
+    <tr>
         <td><img src="https://github.com/songkidong/YogiAudio/assets/136422040/badbac2c-e3b4-4e2b-9ed5-267023957191"></td>
     </tr>
     <tr>
         <td>관리자-게시판</td>
+    </tr>
+    <tr>
         <td><img src="https://github.com/songkidong/YogiAudio/assets/136422040/e65404a6-03bd-4255-ad42-cc2e7887c1da"></td>
     </tr>
 </table>
