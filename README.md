@@ -159,7 +159,7 @@ implementation 'org.springframework.boot:spring-boot-starter-mail'
         <br>
         - 1:1문의하기 CRUD, 다중파일 업로드/다운로드, 검색&페이징
         <br>
-        - 자유게시판 게시글 CRUD, 다중파일 업로드/다운로드, 검색&페이징&정렬
+        - 자유게시판 CRUD, 다중파일 업로드/다운로드, 검색&페이징&정렬
         <br>
         - 자유게시판 댓글 CRUD
         <br>
