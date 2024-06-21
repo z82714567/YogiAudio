@@ -15,7 +15,7 @@
 <br>
 
 ## 팀원 구성
-![Screenshot_43](https://github.com/songkidong/YogiAudio/assets/141198018/61249a6d-482b-48ff-9ed2-080df50bb6fd)
+![Screenshot_43](https://github.com/songkidong/YogiAudio/assets/136422040/0be06d5a-383f-4595-a4a4-0d089e3b51b7)
 
 <br>
 
