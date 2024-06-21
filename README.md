@@ -143,37 +143,37 @@ implementation 'org.springframework.boot:spring-boot-starter-mail'
         <td>공지사항 list, view, 다중파일 다운로드, 검색&페이징</td>
     </tr>
     <tr>
-        <td><img src="https://youtu.be/crRdbI-4e14"></td>
-        <td><img src="https://github.com/songkidong/YogiAudio/assets/136422040/8a6da662-6196-404b-997c-7c803dab5353"></td>
+        <td><img src="https://github.com/songkidong/YogiAudio/assets/136422040/19de3f60-682b-4919-8133-48c94c49c040"></td>
+        <td><img src="https://github.com/songkidong/YogiAudio/assets/136422040/aed50969-104e-474d-a9c5-8dffc89c04e6"></td>
     </tr>
     <tr>
         <td>1:1문의하기 CRUD, 다중파일 업로드/다운로드, 검색&페이징</td>
         <td>자유게시판 CRUD, 다중파일 업로드/다운로드, 검색&페이징&정렬</td>
     </tr>
     <tr>
-        <td><img src="https://github.com/songkidong/YogiAudio/assets/136422040/2d3e22d7-8aa9-4fdc-9c1c-593f5aaf17c8"></td>
-        <td><img src="https://github.com/songkidong/YogiAudio/assets/136422040/30381d9a-3d84-426f-99b5-66495a310e52"></td>
+        <td><img src="https://github.com/songkidong/YogiAudio/assets/136422040/be5fd7ac-cd2b-4bfd-a991-c28b1c7b4917"></td>
+        <td><img src=""></td>
     </tr>
     <tr>
         <td>자유게시판 댓글 CRUD</td>
         <td>자유게시판 게시글, 댓글 신고하기</td>
     </tr>
     <tr>
-        <td><img src="https://github.com/songkidong/YogiAudio/assets/136422040/c1d153b4-e411-4c6f-937a-dfdc89908efb"></td>
-        <td><img src="https://github.com/songkidong/YogiAudio/assets/136422040/b1e3cb76-9db2-4ae9-a093-8a92273ae6d3"></td>
+        <td><img src=""></td>
+        <td><img src=""></td>
     </tr>
     <tr>
         <td>관리자-공지사항 등록, 수정, 삭제 / 다중파일 업로드</td>
         <td>관리자-1:1문의하기 답변 등록, 수정, 삭제 / 글 삭제</td>
     </tr>
     <tr>
-        <td><img src="https://github.com/songkidong/YogiAudio/assets/136421972/30697896-2a44-4828-ab47-267db8bf236b"></td>
-        <td><img src="https://github.com/songkidong/YogiAudio/assets/136421972/f81384fd-75aa-4e1a-b172-54633da9d611"></td>
+        <td><img src=""></td>
+        <td><img src=""></td>
     </tr>
     <tr>
         <td>관리자-자유게시판 댓글 삭제 / 글 삭제</td>
     </tr>
     <tr>
-        <td><img src="https://github.com/songkidong/YogiAudio/assets/136421972/638ddee3-3666-4452-b03e-52fd41f7dd34"></td>
+        <td><img src=""></td>
     </tr>
 </table>
