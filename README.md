@@ -143,7 +143,7 @@ implementation 'org.springframework.boot:spring-boot-starter-mail'
         <td>공지사항 list, view, 다중파일 다운로드, 검색&페이징</td>
     </tr>
     <tr>
-        <td><img src="https://github.com/songkidong/YogiAudio/assets/141198018/4d1fdfc3-275e-4ee6-a85b-8de8c415ecb4"></td>
+        <td><img src="https://youtu.be/crRdbI-4e14"></td>
         <td><img src="https://github.com/songkidong/YogiAudio/assets/136422040/8a6da662-6196-404b-997c-7c803dab5353"></td>
     </tr>
     <tr>
